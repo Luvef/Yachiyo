@@ -1,0 +1,18 @@
+#Python cache
+__pycache__/
+*.py[cod]
+#Virtual environment
+.venv/
+venv/
+#VS code settings
+.vscode/
+#JetBrains IDE settings
+.idea/
+#macOS settings
+.DS_Store
+#windows settings
+Thumbs.db
+#Environment variables
+.env
+#Log files
+*.log
